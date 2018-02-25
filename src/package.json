@@ -1,0 +1,19 @@
+{
+    "name": "Sync-Patch",
+    "version": "1.0.1",
+    "author": {
+        "name": "defeng.liu",
+        "eamil": "defeng.liu@deltaww.com"
+    },
+    "license": "MIT",
+    "description": "Post URL and description of patch to bugzilla",
+    "main": "app.js",
+    "dependencies": {
+        "agentkeepalive": "^3.1.0",
+        "cheerio": "~0.22.0",
+        "colors": "~1.1.2",
+        "commander": "~2.9.0",
+        "readline-sync": "~1.4.6",
+        "request": "~2.79.0"
+    }
+}
